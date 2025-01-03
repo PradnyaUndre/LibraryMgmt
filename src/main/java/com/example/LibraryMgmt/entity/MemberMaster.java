@@ -34,4 +34,5 @@ public class MemberMaster {
 	@OneToOne(mappedBy = "memberMaster")
 	private TakeBook takeBook;
 	
+	
 }
